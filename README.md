@@ -15,7 +15,7 @@
 Sou profissional com mais de 5 anos de experiência em **suporte técnico N1 e N2**, atuando na manutenção de equipamentos, redes e servidores, suporte presencial e remoto.  
 Atualmente curso **Ciência da Computação** com foco em **desenvolvimento web** e busco expandir minha atuação na área de programação.  
 
----
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -68,7 +68,7 @@ Atualmente curso **Ciência da Computação** com foco em **desenvolvimento web*
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
----
+-
 
 ### 🛠️ Tecnologias & Ferramentas
 
