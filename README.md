@@ -67,6 +67,17 @@ Atualmente curso **Ciência da Computação** com foco em **desenvolvimento web*
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
+## 🛠️ Tecnologias & Ferramentas
+
+| Área | Ferramentas |
+|------|-------------|
+| **Sistemas Operacionais** | Windows, Linux (básico) |
+| **Redes & Protocolos** | DHCP, DNS, NAT, VPN |
+| **Ferramentas de Suporte** | VNC, AnyDesk, TeamViewer, GLPI, OTRS |
+| **Configuração de Equipamentos** | Roteadores (TP-Link, Mikrotik), Switches, Redes Wireless via Rádio |
+| **Segurança** | Antivírus, Monitoramento de Rede (NOC) |
+| **Outros** | Pacote Office, Elaboração de Relatórios Técnicos |
+
 <br/>
 <br/>
 
