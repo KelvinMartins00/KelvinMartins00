@@ -15,7 +15,16 @@
 Sou profissional com mais de 5 anos de experiência em **suporte técnico N1 e N2**, atuando na manutenção de equipamentos, redes e servidores, suporte presencial e remoto.  
 Atualmente curso **Ciência da Computação** com foco em **desenvolvimento web** e busco expandir minha atuação na área de programação.  
 
+### 🛠️ Tecnologias & Ferramentas
 
+| Área | Ferramentas |
+|------|-------------|
+| **Sistemas Operacionais** | Windows, Linux (básico) |
+| **Redes & Protocolos** | DHCP, DNS, NAT, VPN |
+| **Ferramentas de Suporte** | VNC, AnyDesk, TeamViewer, GLPI, OTRS |
+| **Configuração de Equipamentos** | Roteadores (TP-Link, Mikrotik), Switches, Redes Wireless via Rádio |
+| **Segurança** | Antivírus, Monitoramento de Rede (NOC) |
+| **Outros** | Pacote Office, Elaboração de Relatórios Técnicos |
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -67,19 +76,6 @@ Atualmente curso **Ciência da Computação** com foco em **desenvolvimento web*
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-
--
-
-### 🛠️ Tecnologias & Ferramentas
-
-| Área | Ferramentas |
-|------|-------------|
-| **Sistemas Operacionais** | Windows, Linux (básico) |
-| **Redes & Protocolos** | DHCP, DNS, NAT, VPN |
-| **Ferramentas de Suporte** | VNC, AnyDesk, TeamViewer, GLPI, OTRS |
-| **Configuração de Equipamentos** | Roteadores (TP-Link, Mikrotik), Switches, Redes Wireless via Rádio |
-| **Segurança** | Antivírus, Monitoramento de Rede (NOC) |
-| **Outros** | Pacote Office, Elaboração de Relatórios Técnicos |
 
 
 <br/>
