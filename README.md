@@ -67,7 +67,7 @@ Atualmente curso **Ciência da Computação** com foco em **desenvolvimento web*
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
-
+---
 
 ### 🛠️ Tecnologias & Ferramentas
 
