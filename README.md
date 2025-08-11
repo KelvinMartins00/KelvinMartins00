@@ -81,3 +81,11 @@ Atualmente curso **Ciência da Computação** com foco em **desenvolvimento web*
 <br/>
 <br/>
 
+## 🤝 Soft Skills
+
+- 🗣️ Comunicação clara e empática  
+- ⏱️ Agilidade na resolução de problemas  
+- 📋 Organização e atenção aos detalhes  
+- 🤝 Trabalho em equipe  
+- 🚀 Proatividade e aprendizado contínuo
+  
