@@ -83,4 +83,4 @@ Atualmente curso **Ciência da Computação** com foco em **desenvolvimento web*
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvinMartins00&show_icons=truetheme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelvinmartins00&show_icons=true)
