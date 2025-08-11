@@ -67,7 +67,8 @@ Atualmente curso **Ciência da Computação** com foco em **desenvolvimento web*
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
-<div
+
+
 ## 🛠️ Tecnologias & Ferramentas
 
 | Área | Ferramentas |
@@ -78,7 +79,7 @@ Atualmente curso **Ciência da Computação** com foco em **desenvolvimento web*
 | **Configuração de Equipamentos** | Roteadores (TP-Link, Mikrotik), Switches, Redes Wireless via Rádio |
 | **Segurança** | Antivírus, Monitoramento de Rede (NOC) |
 | **Outros** | Pacote Office, Elaboração de Relatórios Técnicos |
-/div>
+
 
 <br/>
 <br/>
