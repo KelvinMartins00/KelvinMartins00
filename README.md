@@ -69,7 +69,7 @@ Atualmente curso **Ciência da Computação** com foco em **desenvolvimento web*
 
 
 
-###🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
 | Área | Ferramentas |
 |------|-------------|
